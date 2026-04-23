@@ -1,5 +1,6 @@
-import os,sys  
+import os
+import sys
+
 
 def func():
-    unused = 10
-    print( "hello" )
+    print("hello")
